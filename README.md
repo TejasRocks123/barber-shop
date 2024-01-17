@@ -124,57 +124,70 @@ Visual studio code
 
 
 
+![Screenshot (470)](https://github.com/TejasRocks123/barber-shop/assets/146705193/9bd97f49-9d9b-43a8-8ae1-12fda568c7cc)
 
 
 
   
-![Screenshot (470)](https://github.com/TejasRocks123/barber-shop/assets/146705193/a506721d-a22a-464e-a20a-7b6732a9adb7)
+
 
 # homepage
 
 
 
 
-![Screenshot (471)](https://github.com/TejasRocks123/barber-shop/assets/146705193/9f609841-e8d8-4dca-a4cd-583c37ce0f35)
 
 
 
-  
+
+  ![Screenshot (471)](https://github.com/TejasRocks123/barber-shop/assets/146705193/2ef2c454-98ec-4fb1-b1ce-49abfedc10b0)
+
+
 
 
 
 
 # Purpose
-![Screenshot (472)](https://github.com/TejasRocks123/barber-shop/assets/146705193/188ee08c-adfd-4d31-bcd5-1097fdd177b6)
 
 
 
 
 
 
+![Screenshot (472)](https://github.com/TejasRocks123/barber-shop/assets/146705193/5507a8f8-9770-42b1-8ca0-7a10ce30c043)
 
 
 # hairstyiles
-![Screenshot (473)](https://github.com/TejasRocks123/barber-shop/assets/146705193/1159b5fb-21ea-411c-8b69-32cc25006c87)
 
+
+![Screenshot (473)](https://github.com/TejasRocks123/barber-shop/assets/146705193/c8d6763d-89b3-4f26-ab93-1959c32802e7)
 
 
 
 
 # contact Information
-![Screenshot (474)](https://github.com/TejasRocks123/barber-shop/assets/146705193/9471daaa-835e-4f43-a8ca-9eaa38fec8c8)
+
+![Screenshot (474)](https://github.com/TejasRocks123/barber-shop/assets/146705193/0d24c2f4-2662-4762-93b3-eb983b0602a4)
+
+
+
+![Screenshot (475)](https://github.com/TejasRocks123/barber-shop/assets/146705193/4785f9d1-4709-4f96-a057-45304b8bdfe5)
+
 
 # screenhot of services
 # App services
-![Screenshot (476)](https://github.com/TejasRocks123/barber-shop/assets/146705193/b5975cad-b352-4404-9c6d-34887a2eda9c)
 
 
 
+
+![Screenshot (476)](https://github.com/TejasRocks123/barber-shop/assets/146705193/8017c926-3990-4c71-aa16-3be68610f8cf)
 
 # Monitor service
-![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/d0a425a6-f410-4175-b3b7-08bdbbf25bc8)
+
+![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/c631003b-83a1-42d0-ae8c-98b6cabe5463)
 
 
 # AI service
-![Screenshot (478)](https://github.com/TejasRocks123/barber-shop/assets/146705193/e2a7d787-288b-45f4-a647-46dfd438ad22)
 
+
+![Screenshot (478)](https://github.com/TejasRocks123/barber-shop/assets/146705193/70e6854a-1d27-4141-861c-080ec9022b79)
