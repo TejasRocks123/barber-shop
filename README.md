@@ -10,7 +10,7 @@ Many barber shops lack an effective online presence, making it challenging for p
 
 A website provides an opportunity to build and reinforce the brand identity of the barbershop. Lack of a consistent brand image may lead to decreased recognition and customer loyalty.
 
-Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barber shop.
+Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barbershop.
 
 # industry type
 The personal Care and Grooming industry
@@ -75,18 +75,18 @@ Creating a comprehensive website that addresses these issues can enhance the ove
 # The Personal Care and Grooming industry
 
 # core Azure services
-# Azure app services for hosting website
-# Azure Monitor services
+ Azure app services for hosting website
+ Azure Monitor services
 
 # Azure AI services
-# Azure Bot Services
+ Azure Bot Services
 
 # Web Technologies Used
  HTML5
-CSS
+ CSS
 
 # IDE Used 
-# Visual studio code
+Visual studio code
 
 # steps followed While Deploying
 1. built the whole web application on the Visual Studio code
