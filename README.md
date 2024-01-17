@@ -20,7 +20,7 @@ Azure app services for hosting website
 Azure Monitor services
 
 # Azure AI services
-Azure Bot Services
+Azure AI language service
 
 # Web Technologies Used
 HTML5
@@ -69,10 +69,10 @@ Many barber shops lack an effective online presence, making it challenging for p
 
 A website provides an opportunity to build and reinforce the brand identity of the barbershop. Lack of a consistent brand image may lead to decreased recognition and customer loyalty.
 
-Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barber shop.
+Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barbershop.
 
 # industry type
-# The personal Care and Grooming industry
+# The Personal Care and Grooming industry
 
 # core Azure services
 # Azure app services for hosting website
@@ -86,7 +86,7 @@ Creating a comprehensive website that addresses these issues can enhance the ove
 CSS
 
 # IDE Used 
-# visual studio code
+# Visual studio code
 
 # steps followed While Deploying
 1. built the whole web application on the Visual Studio code
@@ -99,9 +99,9 @@ CSS
 
   uploaded the files to GitHub
 
-  then created an azure app service and deployed 
+  then created an Azure app service and deployed 
 
-  selecting the source as an external source added Github link of my repository and saved and synced
+  selecting the source as an external source added the Github link to my repository and saved and synced
   now the web application is successfully deployed
 
   added the chatbot service to the website so it helps customer 
@@ -175,6 +175,6 @@ CSS
 ![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/d0a425a6-f410-4175-b3b7-08bdbbf25bc8)
 
 
-# chat bot service
+# AI service
 ![Screenshot (478)](https://github.com/TejasRocks123/barber-shop/assets/146705193/e2a7d787-288b-45f4-a647-46dfd438ad22)
 
