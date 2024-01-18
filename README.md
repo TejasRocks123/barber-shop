@@ -58,18 +58,7 @@ CSS
 
   
 
-# Project Title
 
-A barber shop website(https://barber-shop.azurewebsites.net/)
-
-# project Description
-The objective of the "ModernizeMyBarberShop" project is to create a dynamic and user-friendly website for a traditional barber shop, enhancing its online presence and customer experience
-
-Many barber shops lack an effective online presence, making it challenging for potential customers to find information about services, prices, and operating hours.
-
-A website provides an opportunity to build and reinforce the brand identity of the barbershop. Lack of a consistent brand image may lead to decreased recognition and customer loyalty.
-
-Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barbershop.
 
 # industry type
 # The Personal Care and Grooming industry
