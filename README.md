@@ -1,23 +1,32 @@
-
+# Future Ready Talent Projects
 # Project Title
 
 A barber shop website(https://barber-shop.azurewebsites.net/)
 
+
+# problem statement 
+The Barber Online Shop project aims to create a user-friendly and efficient website that caters to the needs of both barbers and customers in the grooming industry. The primary problem to be addressed is the lack of a centralized platform where individuals seeking barber services can easily discover, book, and engage with professional barbers.
+Currently, potential customers often struggle to find reliable and skilled barbers in their vicinity. This is compounded by the absence of a unified online space for barbers to showcase their services and availability. Barbers, on the other hand, face challenges in reaching a broader audience and managing their schedules effectively. The proposed website seeks to bridge this gap by providing a comprehensive solution. For customers, the platform will offer a user-friendly interface to search for barbers based on location, services offered
+To enhance user engagement, the website will include features such as customer reviews, barber profiles, and a gallery showcasing the work of each barber.
+
+
+
 # project Description
-The objective of the "ModernizeMyBarberShop" project is to create a dynamic and user-friendly website for a traditional barber shop, enhancing its online presence and customer experience
 
-Many barber shops lack an effective online presence, making it challenging for potential customers to find information about services, prices, and operating hours.
-
-A website provides an opportunity to build and reinforce the brand identity of the barbershop. Lack of a consistent brand image may lead to decreased recognition and customer loyalty.
-
+The Barber Online Shop project aims to revolutionize the traditional barber shop experience by bringing it into the digital age. This platform provides a seamless and convenient way for customers to book barber appointments, browse services, and purchase grooming products online.
+enhancing its online presence and customer experience Many barber shops lack an effective online presence, making it challenging for potential customers to find information about services, prices, and operating hours. A website provides an opportunity to build and reinforce the brand identity of the barbershop. Lack of a consistent brand image may lead to decreased recognition and customer loyalty.
 Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barbershop.
+also, we have added a custom question and answers AI service powered by Azure language service is an AI service created by Azure it help customers to ask any question on our website
+this helps enhance the overall customer experience
 
 # industry type
-The personal Care and Grooming industry
+# The Personal Care and Grooming industry
+lifestyle
 
-# core Azure services
+# core Azure services :
 Azure app services for hosting website
-Azure Monitor services
+
+ Azure Monitor services
 
 # Azure AI services
 Azure AI language service
@@ -27,25 +36,25 @@ HTML5
 CSS
 
 # IDE Used 
-# visual studio code
+# Visual studio code
 
 # steps followed While Deploying
 1. built the whole web application on the Visual Studio code
 
-  added a series of codes using HTML and CSS
+2. added a series of codes using HTML and CSS
 
-  created a github account
+3. created a github account
 
-  created a github repository to deploy it on Azure
+4. created a github repository to deploy it on Azure
 
-  uploaded the files to github
+5 uploaded the files to github
 
-  then created an Azure app service and deployed 
+6. Then created an Azure app service and deployed 
+   selecting the source as an external source added a github link to my repository and saved and synced
+   now the web application is successfully deployed
+   added AI language service by creating resources and added language service with custom question and answers
 
-  selecting the source as an external source added a github link to my repository and saved and synced
-  now the web application is successfully deployed
-
-  added the AI language service a chatbot service to the website so it helps customer 
+  
 
   # github repository https://github.com/TejasRocks123/barber-shop
 
@@ -58,54 +67,6 @@ CSS
   
   # Project Video
   # https://drive.google.com/file/d/1QBneImphiXuKn5ByqM-X4ygyHgZkyLbv/view?usp=sharing
-
-
-
-
-  
-
-
-
-# industry type
-# The Personal Care and Grooming industry
-
-# core Azure services
- Azure app services for hosting website
- Azure Monitor services
-
-# Azure AI services
- Azure Bot Services
-
-# Web Technologies Used
- HTML5
- CSS
-
-# IDE Used 
-Visual studio code
-
-# steps followed While Deploying
-1. built the whole web application on the Visual Studio code
-
-  added a series of codes using HTML and CSS
-
-  created a GitHub account
-
-  created a GitHub repository to deploy it on Azure
-
-  uploaded the files to GitHub
-
-  then created an Azure app service and deployed 
-
-  selecting the source as an external source added the Github link to my repository and saved and synced
-  now the web application is successfully deployed
-
-  added the chatbot service to the website so it helps customer 
-
-  # GitHub repository https://github.com/TejasRocks123/barber-shop
-
-  # code https://github.com/TejasRocks123/barber-shop
-
-  # web application hosted on https://barber-shop.azurewebsites.net/
 
   # Documentation
   https://docs.google.com/document/d/144QSQWp2yTdEpiGK4rBWfydGMT7fEDR_/edit?usp=drive_link&ouid=112647885816831502969&rtpof=true&sd=true
@@ -179,7 +140,13 @@ Visual studio code
 
 # Monitor service
 
-![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/c631003b-83a1-42d0-ae8c-98b6cabe5463)
+![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/c631003b-83a1-42d0-ae8c-98b6cabe5463
+
+
+# language service
+(chatbot AI)
+
+![Screenshot (491)](https://github.com/TejasRocks123/barber-shop/assets/146705193/e3065df2-a13b-4093-88eb-c27a72748f76)
 
 
 # AI service
