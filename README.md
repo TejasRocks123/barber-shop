@@ -45,13 +45,19 @@ CSS
   selecting the source as an external source added a github link to my repository and saved and synced
   now the web application is successfully deployed
 
-  added the chatbot service to the website so it helps customer 
+  added the AI language service a chatbot service to the website so it helps customer 
 
   # github repository https://github.com/TejasRocks123/barber-shop
 
   # code https://github.com/TejasRocks123/barber-shop
 
   # web application hosted on https://barber-shop.azurewebsites.net/
+  
+  # Documentaion
+  # https://docs.google.com/document/d/1f0QxN3f-PK8rQdy6VBJMnTrZE4BUBG10/edit?usp=sharing&ouid=112647885816831502969&rtpof=true&sd=true
+  
+  # Project Video
+  # https://drive.google.com/file/d/1QBneImphiXuKn5ByqM-X4ygyHgZkyLbv/view?usp=sharing
 
 
 
