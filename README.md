@@ -140,7 +140,8 @@ CSS
 
 # Monitor service
 
-![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/c631003b-83a1-42d0-ae8c-98b6cabe5463
+![Screenshot (477)](https://github.com/TejasRocks123/barber-shop/assets/146705193/5df0812d-9e9b-4b16-8adb-b29aaf3de8e0)
+
 
 
 # language service
