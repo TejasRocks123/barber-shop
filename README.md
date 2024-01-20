@@ -63,13 +63,13 @@ CSS
   # Web application hosted on https://barber-shop.azurewebsites.net/
   
   # Documentaion
-  # https://docs.google.com/document/d/1f0QxN3f-PK8rQdy6VBJMnTrZE4BUBG10/edit?usp=sharing&ouid=112647885816831502969&rtpof=true&sd=true
+  # https://docs.google.com/document/d/1z0H677RPHBCjIiBb-_der6kWvgiD2Mx3/edit?usp=sharing&ouid=115446181008303576865&rtpof=true&sd=true
   
   # Project Video
-  # https://drive.google.com/file/d/1QBneImphiXuKn5ByqM-X4ygyHgZkyLbv/view?usp=sharing
+  # https://drive.google.com/file/d/1NErLLONcY7KJ2BLZ5wS-m47UrBX5PExy/view?usp=sharing
 
   # Documentation
-  https://docs.google.com/document/d/144QSQWp2yTdEpiGK4rBWfydGMT7fEDR_/edit?usp=drive_link&ouid=112647885816831502969&rtpof=true&sd=true
+# https://docs.google.com/document/d/1z0H677RPHBCjIiBb-_der6kWvgiD2Mx3/edit?usp=sharing&ouid=115446181008303576865&rtpof=true&sd=true
 
 
 
