@@ -13,7 +13,7 @@ To enhance user engagement, the website will include features such as customer r
 
 # Project Description
 
-The Barber Online Shop project aims to revolutionize the traditional barber shop experience by bringing it into the digital age. This platform provides a seamless and convenient way for customers to book barber appointments, browse services, and purchase grooming products online.
+The Barber Online Shop project aims to revolutionize the traditional barber shop experience by bringing it into the digital age. This platform provides a seamless and convenient way for customers to book barber appointments, browse services, 
 enhancing its online presence and customer experience Many barber shops lack an effective online presence, making it challenging for potential customers to find information about services, prices, and operating hours. A website provides an opportunity to build and reinforce the brand identity of the barbershop. Lack of a consistent brand image may lead to decreased recognition and customer loyalty.
 Creating a comprehensive website that addresses these issues can enhance the overall customer experience, streamline operations, and contribute to the growth and success of the barbershop.
 also, we have added a custom question and answers AI service powered by Azure language service is an AI service created by Azure it help customers to ask any question on our website
