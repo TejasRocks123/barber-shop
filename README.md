@@ -1,7 +1,9 @@
 # Future Ready Talent Projects
 # Project Title
 
-A barber shop website(https://barber-shop.azurewebsites.net/)
+A barber shop website Created By Tejas Nayak and Vivek Dubey (https://barber-shop.azurewebsites.net/)
+
+# Collabrated with https://github.com/VivekDubey2002
 
 
 # Problem statement 
